@@ -28,7 +28,7 @@ description: >
   My business skills are well-honed, but it's my passions that truly drive me. Whether it's diving into a new DIY project or
   exploring the great outdoors, I bring the same level of dedication and precision to everything I do.
 baseurl: "/zayn-portfolio" # the subpath of your site, e.g., /blog
-url: "https://zelhajji11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.zaynelhajji.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "zayn_elhajji"
 github_username: "zelhajjill"
 
